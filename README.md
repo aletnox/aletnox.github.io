@@ -17,4 +17,8 @@ hexo server
 
 ## 部署
 使用 GitHub Action
+直接 push 即可触发
 
+## 分支
+source: 博客源码, 写md 博客也在这里
+master: github action 自动编译上传的分支, 不动他
