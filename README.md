@@ -16,5 +16,5 @@ hexo server
 
 
 ## 部署
-
+使用 GitHub Action
 
